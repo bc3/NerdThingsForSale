@@ -26,7 +26,8 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Vue.js Cookbook | [Vinted](https://www.vinted.be/items/2053116258-vueja-cookbook) | <img src="https://images1.vinted.net/t/01_00a9d_ccQUGvQRgQzFymYEDV49hJFY/310x430/1658566100.jpeg?s=bb35d97746f04d2ce4ced571c092351951d2473f" width=250 height=200> | €20,00 |
 | Agile Experience Design | [Vinted](https://www.vinted.be/items/2053112789-agile-experience-design) | <img src="https://images1.vinted.net/t/01_016ac_jZ8CJ8VGN4FAbY4zw1LHnsMS/310x430/1658566002.jpeg?s=852433510709690bc7ea04d8b88084eaee50854d" width=250 height=200> | €15,00 |
 | Agile Software Requirements | [Vinted](https://www.vinted.be/items/2053109630-agile-software-requirements) | <img src="https://images1.vinted.net/t/01_01920_os2VbjzRQf4hKGuXpbxrJ283/310x430/1658565916.jpeg?s=f9007801ca6bc1b0235615e227ab81907476a82d" width=250 height=200> | €15,00 |
-
+| Sombresa - Sergio Herman - Mijn Ibiza | [Facebook](https://www.facebook.com/marketplace/item/3967455390014452/) | <img src="./images/sombremesa.jpeg" width=250 height=250> | €25,00 |
+| Boeken die de wereld veranderen | [Facebook](https://www.facebook.com/marketplace/item/2495830874054351/) | <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/141847950_10220035377656624_603391865635770896_n.jpg?stp=c0.202.526.526a_dst-jpg_p526x296&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=i6DNOVkuskgQ7kNvgFaNnLt&_nc_ht=scontent-bru2-1.xx&oh=00_AYDPBw__BzpGX0SIr2UYInjPhfns3t_D-nmqT_MZTY9B0w&oe=667826C9" width=250 height=250> | €20,00 |
 
 
 ## Clothing
@@ -60,11 +61,18 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Item        | Url                                                           | Picture                                                                                                                        | Price     |
 |-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
 | Hoverboard | [Vinted](https://www.vinted.be/items/1420538245-hoverboard) | <img src="https://images1.vinted.net/t/03_020f8_B3wfeay9Qrw3Uk6UGyGfb5Xo/310x430/1636033675.jpeg?s=921446779e1749a7d8094e2fae989c4348652e57" width=250 height=200> | €65,00 |
+| Rodania Paris Dakar | [Vinted](https://www.vinted.be/items/2288414142-rodania-paris-dakar) | <img src="https://images1.vinted.net/t/03_01c91_mufrPc8V5bcVc1sRVPQD2PYL/310x430/1665236068.jpeg?s=c1b9598ca4b26e8fad18c63c499f8db08ba8feec" width=250 height=200> | €175,00 |
+| Planbord | [Facebook](https://www.facebook.com/marketplace/item/3313817452248286/) | <img src="./images/planbord.jpeg" width=250 height=250> | €40,00 |
+| Mede8tor Media Center | [Facebook](https://www.facebook.com/marketplace/item/283052870055317/) | <img src="./images/mede8tor.jpeg" width=250 height=250> | €20,00 |
+| Dlink Boxee Box Media Center | [Facebook](https://www.facebook.com/marketplace/item/254262849715899/) | <img src="./images/boxee.jpeg" width=250 height=250> | €20,00 |
 
 ## Gaming
 
 | Item        | Url                                                           | Picture                                                                                                                        | Price     |
 |-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
 | StarCraft Collecties Edition | [Vinted](https://www.vinted.be/items/2337019118-starcraft-collecties-edition) | <img src="https://images1.vinted.net/t/02_00868_sHwynasTq2WnzSUuMYLi4T2h/310x430/1666438276.jpeg?s=f39d083b2684da0c45516d2ef55a0355baf8c2ac" width=250 height=200> | €50,00 |
+| Retro Console | [Vinted](https://www.vinted.be/items/1994836327-retro-console) | <img src="https://images1.vinted.net/t/02_00f15_7aWvqT61r1P37P7U5E4fM7ir/310x430/1656341405.jpeg?s=6625a72acd94e242b77ea079e20c9b16a8527430" width=250 height=200> | €20,00 |
+| Pet Alienware | [Vinted](https://www.vinted.be/items/2476733362-pet-alienware) | <img src="https://images1.vinted.net/t/01_00536_eLo2E2Pu9LnhRLrQsHgXeA81/310x430/1669999510.jpeg?s=37c5f1348192199fdfd8ad4268cfc644891bef12" width=250 height=200> | €5,00 |
+
 
 
