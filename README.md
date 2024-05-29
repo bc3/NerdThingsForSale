@@ -54,7 +54,7 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Lego City Caravan 60117 | [Vinted](https://www.vinted.be/items/1993664419-lego-city-caravan-60117) | <img src="https://images1.vinted.net/t/03_02151_p2DhPUg31GpgeNJe2YJ1zh49/310x430/1656318261.jpeg?s=c84e018f5fb4a73a931cebb47f920b1c3449ff38" width=250 height=200> | €17,50 |
 | Lego Creator 31028 | [Vinted](https://www.vinted.be/items/2016494528-lego-creator-31028) | <img src="https://images1.vinted.net/t/01_01078_S3GctaqjHHUN4pyWuufNipTL/310x430/1657119351.jpeg?s=4b67721feb8bcb360fc95b4d829005146f2bd9dc" width=250 height=200> | €10,00 |
 | Lego City | [Vinted](https://www.vinted.be/items/2008116962-lego-city) | <img src="https://images1.vinted.net/t/02_01d14_SmQ6Grn92S51cxboeiELSQxH/310x430/1656844962.jpeg?s=ce2ea42ac43d65b4919e10b808bdc2ee4f93dbc8" width=250 height=200> | €12,00 |
-| Lego batman sets | [Faceook](https://www.facebook.com/groups/441732562654416/permalink/2689648454529471/?sale_post_id=2689648454529471) | <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/441158495_10227368051688892_2137937247935804125_n.jpg?stp=c0.58.526.526a_dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bJGMBcwikb0Q7kNvgGKASI3&_nc_ht=scontent-bru2-1.xx&oh=00_AYAefmc8wbiI9D1Ocfl3wS7GMYr6qoo332ZQNuwFt0EGLw&oe=66566CBA" width=250 height=200> | €1500,00 |
+| Lego batman sets | [Faceook](https://www.facebook.com/groups/441732562654416/permalink/2689648454529471/?sale_post_id=2689648454529471) | <img src="./images/lego_batman.jpeg" width=250 height=200> | €1500,00 |
 
 
 ## Gadgets
