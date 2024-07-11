@@ -24,7 +24,12 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Agile Experience Design | [Vinted](https://www.vinted.be/items/2053112789-agile-experience-design) | <img src="https://images1.vinted.net/t/01_016ac_jZ8CJ8VGN4FAbY4zw1LHnsMS/310x430/1658566002.jpeg?s=852433510709690bc7ea04d8b88084eaee50854d" width=250 height=200> | €15,00 |
 | Agile Software Requirements | [Vinted](https://www.vinted.be/items/2053109630-agile-software-requirements) | <img src="https://images1.vinted.net/t/01_01920_os2VbjzRQf4hKGuXpbxrJ283/310x430/1658565916.jpeg?s=f9007801ca6bc1b0235615e227ab81907476a82d" width=250 height=200> | €15,00 |
 | Sombresa - Sergio Herman - Mijn Ibiza | [Facebook](https://www.facebook.com/marketplace/item/3967455390014452/) | <img src="./images/sombremesa.jpeg" width=250 height=250> | €25,00 |
-| Boeken die de wereld veranderen | [Facebook](https://www.facebook.com/marketplace/item/2495830874054351/) | <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/141847950_10220035377656624_603391865635770896_n.jpg?stp=c0.202.526.526a_dst-jpg_p526x296&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=i6DNOVkuskgQ7kNvgFaNnLt&_nc_ht=scontent-bru2-1.xx&oh=00_AYDPBw__BzpGX0SIr2UYInjPhfns3t_D-nmqT_MZTY9B0w&oe=667826C9" width=250 height=250> | €20,00 |
+| Boeken die de wereld veranderen | [Facebook](https://www.facebook.com/marketplace/item/2495830874054351/) | <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/141847950_10220035377656624_603391865635770896_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=db9c8c&_nc_ohc=yGL4YAGtuwkQ7kNvgEvGnqv&_nc_ht=scontent-bru2-1.xx&oh=00_AYAlXncZg8BMWop9HtZ6ZHa253xF4rehspq3qAR5ED_vfQ&oe=66B6FE49" width=250 height=250> | €20,00 |
+| Star Wars boeken (ook LEGO) | Vinted | <img src="https://images1.vinted.net/t/03_01ee1_B6Nd9dZrvTuX9L9LADvtFezg/f800/1720552609.jpeg?s=406a11e580d5e51a0146771e88e43b09af1b9a22" width=250 height=250> | €20,00 |
+| Exclusieve reeks (boek + film + DVD) | Vinted | <img src="https://images1.vinted.net/t/01_01d57_wor1E9HrRJRdBhRSkWSkRR1U/f800/1720552327.jpeg?s=79ec6c8cd3c65d98655f774b8d4e3faf8d7580c5" width=250 height=250> | €15,00 |
+| Tomorrowland: The Spirit of Life (EN) | Vinted | <img src="https://images1.vinted.net/t/01_0174a_AYqaYeu9PFWs39rQZJLLmcLE/f800/1720552234.jpeg?s=4a39352dee099af3e5402d9da7bf3fba717ddd0d" width=250 height=250> | €10,00 |
+| Star Wars strips (NL) | Vinted | <img src="https://images1.vinted.net/t/03_0143f_bDT83t11LdHFixcFjJJ9eGQB/f800/1720552044.jpeg?s=7cb9852c466fceea1a36d2d386201e97cc330344" width=250 height=250> | €25,00 |
+| Wacom tekentablet | Vinted | <img src="https://images1.vinted.net/t/02_003db_j6Fs3VBgLNMVdZNFBkHr5N2S/f800/1720676881.jpeg?s=d41d4a726f7c257018a26c2d91e09cb715db337f" width=250 height=250> | €50,00 |
 
 
 ## Clothing
@@ -62,7 +67,8 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Rodania Paris Dakar | [Vinted](https://www.vinted.be/items/2288414142-rodania-paris-dakar) | <img src="https://images1.vinted.net/t/03_01c91_mufrPc8V5bcVc1sRVPQD2PYL/310x430/1665236068.jpeg?s=c1b9598ca4b26e8fad18c63c499f8db08ba8feec" width=250 height=200> | €175,00 |
 | Mede8tor Media Center | [Facebook](https://www.facebook.com/marketplace/item/283052870055317/) | <img src="./images/mede8tor.jpeg" width=250 height=250> | €20,00 |
 | Dlink Boxee Box Media Center | [Facebook](https://www.facebook.com/marketplace/item/254262849715899/) | <img src="./images/boxee.jpeg" width=250 height=250> | €20,00 |
-| Popcorn hour + 1TB disk | [Facebook](https://www.facebook.com/groups/283621515168713/permalink/525063481024514/?sale_post_id=525063481024514) | <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.18169-9/16602658_10208913972148437_478313864016758085_n.jpg?stp=c90.0.540.540a_dst-jpg_p180x540&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zjnYhT710bYQ7kNvgEBLJC4&_nc_ht=scontent-bru2-1.xx&oh=00_AYDIrqy-zOrggZM0HD2gMFNMRyvTYBujmkyHTfKs8zVobg&oe=667823E8" width=250 height=250> | €50,00 |
+| Popcorn hour + 1TB disk | [Facebook](https://www.facebook.com/groups/283621515168713/permalink/525063481024514/?sale_post_id=525063481024514) | <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.18169-9/16602658_10208913972148437_478313864016758085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=689c2a&_nc_ohc=ucTijDuhpGoQ7kNvgF1iK1D&_nc_ht=scontent-bru2-1.xx&oh=00_AYBGxaqMRA3wY0hFMewu_acZ9_vBtdcqvy13iw2zhDZpAg&oe=66B6FB68" width=250 height=250> | €50,00 |
+| Wacom tekentablet | Vinted | <img src="https://images1.vinted.net/t/02_003db_j6Fs3VBgLNMVdZNFBkHr5N2S/f800/1720676881.jpeg?s=d41d4a726f7c257018a26c2d91e09cb715db337f" width=250 height=250> | €50,00 |
 
 ## Gaming
 
