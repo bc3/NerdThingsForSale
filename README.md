@@ -50,12 +50,6 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Item        | Url                                                           | Picture                                                                                                                        | Price     |
 |-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
 | Lego 6480 Hooks & Ladders Firetruck Light & Sound | [Vinted](https://www.vinted.be/items/2503892103-lego-6480-hooksladders-firetruck-lightsound) | <img src="https://images1.vinted.net/t/02_0085f_qxLr3L3Wh6K3sgAacP5BZ6t1/310x430/1670782916.jpeg?s=6937079a975b9e7e38ecbe732d0eaa008966bb01" width=250 height=200> | €25,00 |
-| Lego Set 6521 Compleet | [Vinted](https://www.vinted.be/items/2482976949-lego-set-6521-compleet) | <img src="https://images1.vinted.net/t/01_01436_VKj5VVZML1eWtXWmzgG6DTcZ/310x430/1670169526.jpeg?s=f468154cd9700ca13a7994ae5e9d7e0836fddaae" width=250 height=200> | €7,50 |
-| Lego Post Vliegtuig | [Vinted](https://www.vinted.be/items/2007625631-lego-post-vliegtuig) | <img src="https://images1.vinted.net/t/03_00e4a_7iA8zCmqtAifhasQZjrChYkk/310x430/1656834214.jpeg?s=2ecbd1d8d25d722499cec9b2235dc622d1728b8b" width=250 height=200> | €15,00 |
-| Lego City Brandweer Moto | [Vinted](https://www.vinted.be/items/2007621209-lego-city-brandweer-moto) | <img src="https://images1.vinted.net/t/02_0202f_7ggiHYkwLkMhocCqghMZF2Hn/310x430/1656834049.jpeg?s=9f5d2d76ed3bd125f05ce52ab0d752893a347ae1" width=250 height=200> | €7,50 |
-| Lego City Caravan 60117 | [Vinted](https://www.vinted.be/items/1993664419-lego-city-caravan-60117) | <img src="https://images1.vinted.net/t/03_02151_p2DhPUg31GpgeNJe2YJ1zh49/310x430/1656318261.jpeg?s=c84e018f5fb4a73a931cebb47f920b1c3449ff38" width=250 height=200> | €17,50 |
-| Lego Creator 31028 | [Vinted](https://www.vinted.be/items/2016494528-lego-creator-31028) | <img src="https://images1.vinted.net/t/01_01078_S3GctaqjHHUN4pyWuufNipTL/310x430/1657119351.jpeg?s=4b67721feb8bcb360fc95b4d829005146f2bd9dc" width=250 height=200> | €10,00 |
-| Lego City | [Vinted](https://www.vinted.be/items/2008116962-lego-city) | <img src="https://images1.vinted.net/t/02_01d14_SmQ6Grn92S51cxboeiELSQxH/310x430/1656844962.jpeg?s=ce2ea42ac43d65b4919e10b808bdc2ee4f93dbc8" width=250 height=200> | €12,00 |
 
 
 
