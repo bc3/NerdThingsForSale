@@ -36,7 +36,6 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 
 | Item        | Url                                                           | Picture                                                                                                                        | Price     |
 |-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Training Jacket Redbull Racing | [Vinted](https://www.vinted.be/items/4516682871-training-jacket-redbull-racing) | <img src="https://images1.vinted.net/t/03_005e9_9Cr9AKudxaGvdfzsSXVEacHE/310x430/1715965262.jpeg?s=c6f1c91a2948892250769820fde99b20b3b2da50" width=250 height=200> | €25,00 |
 | Portefeuille Simpsons - Retro - 25yrs Old | [Vinted](https://www.vinted.be/items/2656378038-portefeuille-simpsons-retro-25yrs-old) | <img src="https://images1.vinted.net/t/01_0170b_TjQbBTyuUT8uSqxprgEtUBWD/310x430/1675504858.jpeg?s=a4a20fc23b196850b53d52ef6a87405c9932337f" width=250 height=200> | €25,00 |
 | Zijden Sjaal G-Star Raw | [Vinted](https://www.vinted.be/items/2482835529-zijden-sjaal-g-star-raw) | <img src="https://images1.vinted.net/t/01_00082_7mAXsGcYdvFczgG9YBBWYH4D/310x430/1670167900.jpeg?s=e2530c2303e3b94a1b6cf5b4fd8b2b5f06630242" width=250 height=200> | €25,00 |
 | Sjaal Hilfiger | [Vinted](https://www.vinted.be/items/2482810509-sjaal-hilfiger) | <img src="https://images1.vinted.net/t/03_00ca9_tT4do2PtTKJCrPtJnArcthg9/310x430/1670167618.jpeg?s=a9d109bdaada6db5e27d0d6ef70b67fe15e31284" width=250 height=200> | €15,00 |
@@ -44,19 +43,18 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Riem Jack & Jones | [Vinted](https://www.vinted.be/items/2482791017-riem-jack-jones) | <img src="https://images1.vinted.net/t/02_00df8_2KGQcTXVzmwmiYHkgSrePkwq/310x430/1670167399.jpeg?s=001c9e14643661a0900da3d1c48dd0102e20a516" width=250 height=200> | €5,00 |
 
 
-
-## Lego
-
-| Item        | Url                                                           | Picture                                                                                                                        | Price     |
-|-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Lego 6480 Hooks & Ladders Firetruck Light & Sound | [Vinted](https://www.vinted.be/items/2503892103-lego-6480-hooksladders-firetruck-lightsound) | <img src="https://images1.vinted.net/t/02_0085f_qxLr3L3Wh6K3sgAacP5BZ6t1/310x430/1670782916.jpeg?s=6937079a975b9e7e38ecbe732d0eaa008966bb01" width=250 height=200> | €25,00 |
-
-
-
 ## Gadgets
 
 | Item        | Url                                                           | Picture                                                                                                                        | Price     |
 |-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
+| 3D Connextion Space Mouse | [Site](https://3dconnexion.com/dk/product/spacemouse-wireless/) |<img src="./images/3d connexion space mouse.jpeg"> | €55,00 |
+| Wacom tablet |  | <img src="./images/wacom tablet.jpeg"> | €25,00 |
+| Seinheiser speaker |  | <img src="./images/seinheiser speaker.jpeg"> | €50,00 |
+| 320 GB disk |  | <img src="./images/320GB.jpeg"> | €20,00 |
+| 500 GB disk |  | <img src="./images/500GB.jpeg"> | €25,00 |
+| Mini keyboard |  | <img src="./images/mini keyboard+trackpad.jpeg"> | €25,00 |
+| USB diagnotics |  | <img src="./images/usb diagnostics.jpeg"> | 20,00 |
+| Google Nest Mini | [Site](https://www.technoguide.be/shop/google-nest-mini/) | <img src="./images/google nest mini.jpeg"> | €25,00 |
 | Hoverboard | [Vinted](https://www.vinted.be/items/1420538245-hoverboard) | <img src="https://images1.vinted.net/t/03_020f8_B3wfeay9Qrw3Uk6UGyGfb5Xo/310x430/1636033675.jpeg?s=921446779e1749a7d8094e2fae989c4348652e57" width=250 height=200> | €65,00 |
 | Rodania Paris Dakar | [Vinted](https://www.vinted.be/items/2288414142-rodania-paris-dakar) | <img src="https://images1.vinted.net/t/03_01c91_mufrPc8V5bcVc1sRVPQD2PYL/310x430/1665236068.jpeg?s=c1b9598ca4b26e8fad18c63c499f8db08ba8feec" width=250 height=200> | €175,00 |
 | Mede8tor Media Center | [Facebook](https://www.facebook.com/marketplace/item/283052870055317/) | <img src="./images/mede8tor.jpeg" width=250 height=250> | €20,00 |
