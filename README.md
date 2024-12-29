@@ -11,6 +11,25 @@ I've got some great used items for sale! Whether you're looking for tech gadgets
 
 Don't miss out on these deals! Message me for more details or to make an offer. 
 
+## Gadgets
+
+| Item        | Url                                                           | Picture                                                                                                                        | Price     |
+|-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
+| 3D Connextion Space Mouse | [Site](https://3dconnexion.com/dk/product/spacemouse-wireless/) |<img src="./images/3d connexion space mouse.jpeg"> | €55,00 |
+| Wacom tablet |  | <img src="./images/wacom tablet.jpeg"> | €25,00 |
+| Seinheiser speaker |  | <img src="./images/seinheiser speaker.jpeg"> | €50,00 |
+| 320 GB disk |  | <img src="./images/320GB.jpeg"> | €20,00 |
+| 500 GB disk |  | <img src="./images/500GB.jpeg"> | €25,00 |
+| Mini keyboard |  | <img src="./images/mini keyboard+trackpad.jpeg"> | €25,00 |
+| USB diagnotics |  | <img src="./images/usb diagnostics.jpeg"> | 20,00 |
+| Google Nest Mini | [Site](https://www.technoguide.be/shop/google-nest-mini/) | <img src="./images/google nest mini.jpeg"> | €25,00 |
+| Hoverboard | [Vinted](https://www.vinted.be/items/1420538245-hoverboard) | <img src="https://images1.vinted.net/t/03_020f8_B3wfeay9Qrw3Uk6UGyGfb5Xo/310x430/1636033675.jpeg?s=921446779e1749a7d8094e2fae989c4348652e57" width=250 height=200> | €65,00 |
+| Rodania Paris Dakar | [Vinted](https://www.vinted.be/items/2288414142-rodania-paris-dakar) | <img src="https://images1.vinted.net/t/03_01c91_mufrPc8V5bcVc1sRVPQD2PYL/310x430/1665236068.jpeg?s=c1b9598ca4b26e8fad18c63c499f8db08ba8feec" width=250 height=200> | €175,00 |
+| Mede8tor Media Center | [Facebook](https://www.facebook.com/marketplace/item/283052870055317/) | <img src="./images/mede8tor.jpeg" width=250 height=250> | €20,00 |
+| Dlink Boxee Box Media Center | [Facebook](https://www.facebook.com/marketplace/item/254262849715899/) | <img src="./images/boxee.jpeg" width=250 height=250> | €20,00 |
+| Popcorn hour + 1TB disk | [Facebook](https://www.facebook.com/groups/283621515168713/permalink/525063481024514/?sale_post_id=525063481024514) | <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.18169-9/16602658_10208913972148437_478313864016758085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=689c2a&_nc_ohc=ucTijDuhpGoQ7kNvgF1iK1D&_nc_ht=scontent-bru2-1.xx&oh=00_AYBGxaqMRA3wY0hFMewu_acZ9_vBtdcqvy13iw2zhDZpAg&oe=66B6FB68" width=250 height=250> | €50,00 |
+| Wacom tekentablet | Vinted | <img src="https://images1.vinted.net/t/02_003db_j6Fs3VBgLNMVdZNFBkHr5N2S/f800/1720676881.jpeg?s=d41d4a726f7c257018a26c2d91e09cb715db337f" width=250 height=250> | €50,00 |
+
 ## Books
 
 | Item        | Url                                                           | Picture                                                                                                                        | Price     |
@@ -43,24 +62,7 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Riem Jack & Jones | [Vinted](https://www.vinted.be/items/2482791017-riem-jack-jones) | <img src="https://images1.vinted.net/t/02_00df8_2KGQcTXVzmwmiYHkgSrePkwq/310x430/1670167399.jpeg?s=001c9e14643661a0900da3d1c48dd0102e20a516" width=250 height=200> | €5,00 |
 
 
-## Gadgets
 
-| Item        | Url                                                           | Picture                                                                                                                        | Price     |
-|-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
-| 3D Connextion Space Mouse | [Site](https://3dconnexion.com/dk/product/spacemouse-wireless/) |<img src="./images/3d connexion space mouse.jpeg"> | €55,00 |
-| Wacom tablet |  | <img src="./images/wacom tablet.jpeg"> | €25,00 |
-| Seinheiser speaker |  | <img src="./images/seinheiser speaker.jpeg"> | €50,00 |
-| 320 GB disk |  | <img src="./images/320GB.jpeg"> | €20,00 |
-| 500 GB disk |  | <img src="./images/500GB.jpeg"> | €25,00 |
-| Mini keyboard |  | <img src="./images/mini keyboard+trackpad.jpeg"> | €25,00 |
-| USB diagnotics |  | <img src="./images/usb diagnostics.jpeg"> | 20,00 |
-| Google Nest Mini | [Site](https://www.technoguide.be/shop/google-nest-mini/) | <img src="./images/google nest mini.jpeg"> | €25,00 |
-| Hoverboard | [Vinted](https://www.vinted.be/items/1420538245-hoverboard) | <img src="https://images1.vinted.net/t/03_020f8_B3wfeay9Qrw3Uk6UGyGfb5Xo/310x430/1636033675.jpeg?s=921446779e1749a7d8094e2fae989c4348652e57" width=250 height=200> | €65,00 |
-| Rodania Paris Dakar | [Vinted](https://www.vinted.be/items/2288414142-rodania-paris-dakar) | <img src="https://images1.vinted.net/t/03_01c91_mufrPc8V5bcVc1sRVPQD2PYL/310x430/1665236068.jpeg?s=c1b9598ca4b26e8fad18c63c499f8db08ba8feec" width=250 height=200> | €175,00 |
-| Mede8tor Media Center | [Facebook](https://www.facebook.com/marketplace/item/283052870055317/) | <img src="./images/mede8tor.jpeg" width=250 height=250> | €20,00 |
-| Dlink Boxee Box Media Center | [Facebook](https://www.facebook.com/marketplace/item/254262849715899/) | <img src="./images/boxee.jpeg" width=250 height=250> | €20,00 |
-| Popcorn hour + 1TB disk | [Facebook](https://www.facebook.com/groups/283621515168713/permalink/525063481024514/?sale_post_id=525063481024514) | <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.18169-9/16602658_10208913972148437_478313864016758085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=689c2a&_nc_ohc=ucTijDuhpGoQ7kNvgF1iK1D&_nc_ht=scontent-bru2-1.xx&oh=00_AYBGxaqMRA3wY0hFMewu_acZ9_vBtdcqvy13iw2zhDZpAg&oe=66B6FB68" width=250 height=250> | €50,00 |
-| Wacom tekentablet | Vinted | <img src="https://images1.vinted.net/t/02_003db_j6Fs3VBgLNMVdZNFBkHr5N2S/f800/1720676881.jpeg?s=d41d4a726f7c257018a26c2d91e09cb715db337f" width=250 height=250> | €50,00 |
 
 ## Gaming
 
