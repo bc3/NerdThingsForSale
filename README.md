@@ -15,7 +15,6 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 
 | Item        | Url                                                           | Picture                                                                                                                        | Price     |
 |-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
-
 | Seinheiser speaker |  | <img src="./images/seinheiser speaker.jpeg"> | €50,00 |
 | 320 GB disk |  | <img src="./images/320GB.jpeg"> | €20,00 |
 | 500 GB disk |  | <img src="./images/500GB.jpeg"> | €25,00 |
