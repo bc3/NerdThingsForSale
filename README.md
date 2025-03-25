@@ -15,8 +15,7 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 
 | Item        | Url                                                           | Picture                                                                                                                        | Price     |
 |-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
-| 3D Connextion Space Mouse | [Site](https://3dconnexion.com/dk/product/spacemouse-wireless/) |<img src="./images/3d connexion space mouse.jpeg"> | €55,00 |
-| Wacom tablet |  | <img src="./images/wacom tablet.jpeg"> | €25,00 |
+
 | Seinheiser speaker |  | <img src="./images/seinheiser speaker.jpeg"> | €50,00 |
 | 320 GB disk |  | <img src="./images/320GB.jpeg"> | €20,00 |
 | 500 GB disk |  | <img src="./images/500GB.jpeg"> | €25,00 |
@@ -29,6 +28,15 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Dlink Boxee Box Media Center | [Facebook](https://www.facebook.com/marketplace/item/254262849715899/) | <img src="./images/boxee.jpeg" width=250 height=250> | €20,00 |
 | Popcorn hour + 1TB disk | [Facebook](https://www.facebook.com/groups/283621515168713/permalink/525063481024514/?sale_post_id=525063481024514) | <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.18169-9/16602658_10208913972148437_478313864016758085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=689c2a&_nc_ohc=ucTijDuhpGoQ7kNvgF1iK1D&_nc_ht=scontent-bru2-1.xx&oh=00_AYBGxaqMRA3wY0hFMewu_acZ9_vBtdcqvy13iw2zhDZpAg&oe=66B6FB68" width=250 height=250> | €50,00 |
 | Wacom tekentablet | Vinted | <img src="https://images1.vinted.net/t/02_003db_j6Fs3VBgLNMVdZNFBkHr5N2S/f800/1720676881.jpeg?s=d41d4a726f7c257018a26c2d91e09cb715db337f" width=250 height=250> | €50,00 |
+
+## Gaming
+
+| Item        | Url                                                           | Picture                                                                                                                        | Price     |
+|-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
+| StarCraft Collecties Edition | [Vinted](https://www.vinted.be/items/2337019118-starcraft-collecties-edition) | <img src="https://images1.vinted.net/t/02_00868_sHwynasTq2WnzSUuMYLi4T2h/310x430/1666438276.jpeg?s=f39d083b2684da0c45516d2ef55a0355baf8c2ac" width=250 height=200> | €50,00 |
+| Retro Console | [Vinted](https://www.vinted.be/items/1994836327-retro-console) | <img src="https://images1.vinted.net/t/02_00f15_7aWvqT61r1P37P7U5E4fM7ir/310x430/1656341405.jpeg?s=6625a72acd94e242b77ea079e20c9b16a8527430" width=250 height=200> | €20,00 |
+| Iphone controller | [Vinted](https://www.vinted.be/items/6032657157-razer-kishi-v2-iphone-zwart) | <img src="images/controller1.jpeg"> | €60,00 |
+| Meta Quest 3 | [Tweakers](https://tweakers.net/aanbod/3852002/meta-quest-3-512gb.html) | <img src="images/metaquest.avif">  | €450,00 |
 
 ## Books
 
@@ -64,13 +72,6 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 
 
 
-## Gaming
 
-| Item        | Url                                                           | Picture                                                                                                                        | Price     |
-|-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
-| StarCraft Collecties Edition | [Vinted](https://www.vinted.be/items/2337019118-starcraft-collecties-edition) | <img src="https://images1.vinted.net/t/02_00868_sHwynasTq2WnzSUuMYLi4T2h/310x430/1666438276.jpeg?s=f39d083b2684da0c45516d2ef55a0355baf8c2ac" width=250 height=200> | €50,00 |
-| Retro Console | [Vinted](https://www.vinted.be/items/1994836327-retro-console) | <img src="https://images1.vinted.net/t/02_00f15_7aWvqT61r1P37P7U5E4fM7ir/310x430/1656341405.jpeg?s=6625a72acd94e242b77ea079e20c9b16a8527430" width=250 height=200> | €20,00 |
-| Iphone controller | [Vinted](https://www.vinted.be/items/6032657157-razer-kishi-v2-iphone-zwart) | <img src="images/controller1.jpeg"> | €60,00 |
-| Meta Quest 3 | [Tweakers](https://tweakers.net/aanbod/3852002/meta-quest-3-512gb.html) | <img src="images/metaquest.avif">  | €450,00 |
 
 
