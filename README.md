@@ -55,7 +55,6 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Exclusieve reeks (boek + film + DVD) | Vinted | <img src="https://images1.vinted.net/t/01_01d57_wor1E9HrRJRdBhRSkWSkRR1U/f800/1720552327.jpeg?s=79ec6c8cd3c65d98655f774b8d4e3faf8d7580c5" width=250 height=250> | €15,00 |
 | Tomorrowland: The Spirit of Life (EN) | Vinted | <img src="https://images1.vinted.net/t/01_0174a_AYqaYeu9PFWs39rQZJLLmcLE/f800/1720552234.jpeg?s=4a39352dee099af3e5402d9da7bf3fba717ddd0d" width=250 height=250> | €10,00 |
 | Star Wars strips (NL) | Vinted | <img src="https://images1.vinted.net/t/03_0143f_bDT83t11LdHFixcFjJJ9eGQB/f800/1720552044.jpeg?s=7cb9852c466fceea1a36d2d386201e97cc330344" width=250 height=250> | €25,00 |
-| Wacom tekentablet | Vinted | <img src="https://images1.vinted.net/t/02_003db_j6Fs3VBgLNMVdZNFBkHr5N2S/f800/1720676881.jpeg?s=d41d4a726f7c257018a26c2d91e09cb715db337f" width=250 height=250> | €50,00 |
 
 
 ## Clothing
