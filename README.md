@@ -70,6 +70,7 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 |-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
 | StarCraft Collecties Edition | [Vinted](https://www.vinted.be/items/2337019118-starcraft-collecties-edition) | <img src="https://images1.vinted.net/t/02_00868_sHwynasTq2WnzSUuMYLi4T2h/310x430/1666438276.jpeg?s=f39d083b2684da0c45516d2ef55a0355baf8c2ac" width=250 height=200> | €50,00 |
 | Retro Console | [Vinted](https://www.vinted.be/items/1994836327-retro-console) | <img src="https://images1.vinted.net/t/02_00f15_7aWvqT61r1P37P7U5E4fM7ir/310x430/1656341405.jpeg?s=6625a72acd94e242b77ea079e20c9b16a8527430" width=250 height=200> | €20,00 |
-
+| Iphone controller | [Vinted](https://www.vinted.be/items/6032657157-razer-kishi-v2-iphone-zwart) | <img src="images/controller1.jpeg"> | €60,00 |
+| Meta Quest 3 | [Tweakers](https://tweakers.net/aanbod/3852002/meta-quest-3-512gb.html) | <img src="images/metaquest.avif">  | €450,00 |
 
 
