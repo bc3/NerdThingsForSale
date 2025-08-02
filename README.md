@@ -41,8 +41,6 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 
 ## Lego
 
-| Item        | Url                                                           | Picture                                                                                                                        | Price     |
-|-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
 | Title | Link | Image | Price |
 |-------|------|-------|-------|
 | Vinted retro LEGO Minifigs 1960s - 1970s 11pcs | [Vinted](https://www.vinted.nl/items/6794735011) | <img src="https://images1.vinted.net/t/04_005b3_U4MRbYQiNJxWuZCvL27xn7Wd/310x430/1754125554.webp?s=402142f1bcfa9e699c04837d786f3775738db4fd" width=250 height=250> | € 20,00 |
