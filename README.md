@@ -43,6 +43,16 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 
 | Item        | Url                                                           | Picture                                                                                                                        | Price     |
 |-------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Title | Link | Image | Price |
+|-------|------|-------|-------|
+| Vinted retro LEGO Minifigs 1960s - 1970s 11pcs | [Vinted](https://www.vinted.nl/items/6794735011) | <img src="https://images1.vinted.net/t/04_005b3_U4MRbYQiNJxWuZCvL27xn7Wd/310x430/1754125554.webp?s=402142f1bcfa9e699c04837d786f3775738db4fd" width=250 height=250> | € 20,00 |
+| Lego 6521 emergency repair truck | [Vinted](https://www.vinted.nl/items/6794580288) | <img src="https://images1.vinted.net/t/01_025f4_jg7doW1CYWen9B6RPs3FjoM7/310x430/1754124000.webp?s=025ca5edd3a0d5aed09f2d45de96a33bd4b55547" width=250 height=250> | € 10,00 |
+| Lego 6951 robot command center | [Vinted](https://www.vinted.nl/items/6787299979) | <img src="https://images1.vinted.net/t/03_01ab4_eWzthTdvvdcpywJeJG9HhA5W/310x430/1753988231.webp?s=921278a405ab8b5bde722952e3b3b2743b9c11f2" width=250 height=250> | € 50,00 |
+| Lego space 6880 surface explorer | [Vinted](https://www.vinted.nl/items/6767674696) | <img src="https://images1.vinted.net/t/03_01269_mYWUrd6hp2MF1U7vYNhF5SVX/310x430/1753717987.webp?s=23fbafedd7cb497aef99c999574a7fcebcefe176" width=250 height=250> | € 25,00 |
+| Lego 4025 | [Vinted](https://www.vinted.nl/items/6767377457) | <img src="https://images1.vinted.net/t/04_00c63_ZZQTc74m4uEN9oFWrxNFFFWv/310x430/1753715834.webp?s=d25bf55e15f979b9e4a2b20bc35b1f54c1156de0" width=250 height=250> | € 30,00 |
+| Lego 6384 | [Vinted](https://www.vinted.nl/items/6758236970) | <img src="https://images1.vinted.net/t/03_00a36_aXPrQE1saQztdoCJqoQDSF8N/310x430/1753613328.webp?s=34a8c7507d0faddc34d7dc3ae0e2b3db5d763796" width=250 height=250> | € 45,00 |
+| Lego 4010 police rescue boat | [Vinted](https://www.vinted.nl/items/6758204629) | <img src="https://images1.vinted.net/t/01_01dd7_jU227nyu3QiEwZYFChzc4yF3/310x430/1753613103.webp?s=a6b6b03631763b2be5c27c75796da047ab680711" width=250 height=250> | € 15,00 |
+| Lego town 6358 - snorkel squad | [Vinted](https://www.vinted.nl/items/6758189936) | <img src="https://images1.vinted.net/t/04_00c63_ZZQTc74m4uEN9oFWrxNFFFWv/f800/1753715834.webp?s=104137608a0cacae1c740e9b4aa3a986fe594899" width=250 height=250> | € 22,00 |
 | Lego Chima 70115                                                                | [Vinted](https://www.vinted.nl/items/5364936566) | <img src="https://images1.vinted.net/t/03_01f64_TMA7ZynPAcs5TAQGsSe6NkYP/310x430/1731328006.jpeg?s=9c2d48ecdc06cf752f31fa044da6b51453477cbe" width=250 height=250> | € 20,00  |
 | Lego chima legend beast x3                                                      | [Vinted](https://www.vinted.nl/items/5364915829) | <img src="https://images1.vinted.net/t/01_01812_NzgvHdfqzh1VeM68wnoKu1kN/310x430/1731327856.jpeg?s=9fc39a85583482be77753573d6084946670d66c9" width=250 height=250> | € 12,50  |
 | Lego Chima 70141 (2de fig rechts op de foto+toebehoren ontbreekt)               | [Vinted](https://www.vinted.nl/items/5363413268) | <img src="https://images1.vinted.net/t/04_0113c_wHHnpHJE88M3LaMdA8WquGGK/310x430/1731316390.jpeg?s=ff2e371d67aeded3a74bdca2ebafe9d26841828d" width=250 height=250> | € 10,00  |
@@ -56,8 +66,7 @@ Don't miss out on these deals! Message me for more details or to make an offer.
 | Lego Chima 30262                                                                | [Vinted](https://www.vinted.nl/items/5284587683) | <img src="https://images1.vinted.net/t/04_01c7d_497SieKGBVT9uzdAixy9LPA9/310x430/1730024889.jpeg?s=0601c6ecc00126b93ac11617e6a85ffbd7221282" width=250 height=250> | € 5,00   |
 | Lego chima 70156 fire vs ice                                                    | [Vinted](https://www.vinted.nl/items/5284310021) | <img src="https://images1.vinted.net/t/04_026e0_SnsPeioKCVEPZmpzeThn2Arn/310x430/1730023101.jpeg?s=54084f9f737d36d02a4426f6dd554ee3bb15a714" width=250 height=250> | € 25,00  |
 | Lego minstorms bonus set                                                        | [Vinted](https://www.vinted.nl/items/5063192665) | <img src="https://images1.vinted.net/t/01_0023a_HqYnjHb4WzyB6HYBGZUn6emU/310x430/1726599856.jpeg?s=7f88a1b8113ec83d3f63733d7421e64084ae93d5" width=250 height=250> | € 15,00  |
-| Lego Ferrari 8654 + 8672                                                        | [Vinted](https://www.vinted.nl/items/5063187629) | <img src="https://images1.vinted.net/t/01_02617_JvJpqQuxhGTgfQe8N7kMmZC4/310x430/1726599800.jpeg?s=dd9a96ced66c7cd8a19e8a31dadb8fd783fc8227" width=250 height=250> | € 80,00  |
-| Lego Chima 70128                                                                | [Vinted](https://www.vinted.nl/items/5284570070) | <img src="https://images1.vinted.net/t/04_00a2d_CAEKaXKu28kpQ7dXQX9kjRyX/310x430/1730024778.jpeg?s=87e83a49a3b977257e61d4dcf395348f03a866fa" width=250 height=250> | € 12,00  |
+
 
 ## Books
 
